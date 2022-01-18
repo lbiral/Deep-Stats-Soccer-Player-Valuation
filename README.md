@@ -3,7 +3,7 @@ Using Deep Stats and TransferMarkt data to build interpretable player valuation 
 
 # Data
 The data used in this project came from two key sources:
-1. Market value and age data from TransferMark (https://www.transfermarkt.us/)
+1. Market value and age data from TransferMarkt (https://www.transfermarkt.us/)
 2. Player performance data from Understat (https://understat.com/)
 
 Data was collected for all players who played in at least one of the top 5 leagues in the 2020-2021 season. For reference, these leagues are:
