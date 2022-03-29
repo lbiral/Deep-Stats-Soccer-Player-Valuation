@@ -1105,14 +1105,5 @@ coefs.sort_values('Coefficients',ascending=True)
 coefs.sort_values('Coefficients',ascending=False)
 
 
-# In[255]:
-
-
-data[data['Name'] == 'Lorenzo Insigne']
-
-
-# In[ ]:
-
-
 
 
